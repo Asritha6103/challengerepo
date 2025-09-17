@@ -1,0 +1,1 @@
+This webapplication is used to seperate the waste into different categories like recycled,non-recycled,e-waste etc inorder to maintain eco-sustainability

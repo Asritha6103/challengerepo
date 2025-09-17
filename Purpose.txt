@@ -1,1 +1,0 @@
-This web application is about helping people for seperatimg wastes. Whenever the user scan the application it suggests which waste it is such as recycled,non recycled etc

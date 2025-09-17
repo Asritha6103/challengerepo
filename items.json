@@ -1,1 +1,13 @@
 
+{
+  "plastic bottle": "Recyclable ♻️",
+  "banana peel": "Compostable 🌱",
+  "styrofoam": "Non-Recyclable ❌",
+  "phone battery": "E-Waste 🖥️",
+  "paper": "Recyclable ♻️",
+  "glass bottle": "Recyclable ♻️",
+  "aluminum can": "Recyclable ♻️",
+  "pizza box": "Compostable 🌱",
+  "chip bag": "Non-Recyclable ❌",
+  "keyboard": "E-Waste 🖥️"
+}
